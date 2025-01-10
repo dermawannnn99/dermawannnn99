@@ -12,5 +12,5 @@ jobs:
           # Ganti dengan username GitHub Anda
           user_name: dermawannnn99
           # Ganti teks yang ingin ditampilkan
-          text: Aku Menrey
+          text: Menreyy
       - uses: jasineri/simple-push-action@v1

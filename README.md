@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-[![Instagram: Muhammad Rizky Dermawan](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/dermanray06/)][instagram]
+[![Instagram: Dermawann](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/dermanray06/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Muhammad Rizky Dermawan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammad-rizky-dermawan-0337aa301/)][linkedin]
 
@@ -20,8 +20,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/nandang-eka-prasetya/
-[github]: https://github.com/naneps
-[instagram]: https://www.instagram.com/nannn_ep/
-[facebook]: https://www.facebook.com/prasetya.libra/
-[email]: ekaprasetya2244@gmail.com
+[linkedin]: https://www.linkedin.com/in/muhammad-rizky-dermawan-0337aa301/
+[github]: https://github.com/dermawannnn99
+[instagram]: https://www.instagram.com/dermanray06/
+[email]: rizkydermawan12345@gmail.com@gmail.com

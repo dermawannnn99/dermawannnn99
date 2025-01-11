@@ -7,7 +7,7 @@
 
 [![Instagram: Dermawann](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/dermanray06/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/dermawannnn99?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Muhammad Rizky Dermawan](https://img.shields.io/badge/-CONNECT%20MY%20LINKEDLN-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammad-rizky-dermawan-0337aa301/)][linkedin]
+[![Linkedin: Muhammad Rizky Dermawan](https://img.shields.io/badge/-CONNECT%20ME%20IN%20LINKEDLN-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammad-rizky-dermawan-0337aa301/)][linkedin]
 
 </div>
 

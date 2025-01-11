@@ -1,7 +1,7 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/nandang-eka-prasetya/">dermawannn</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/muhammad-rizky-dermawan-0337aa301/">dermawannn</a></h1>
 <div align="center">
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/naneps/_nannnde)
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/dermawannnn99/dermawannnn99)
 </div>
 <div align="center">
 

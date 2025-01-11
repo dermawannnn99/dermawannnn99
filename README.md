@@ -1,5 +1,3 @@
-![gitartwork](gitartwork.svg)
-
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/nandang-eka-prasetya/">dermawannn</a></h1>
 <div align="center">
 
